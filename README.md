@@ -4,7 +4,7 @@ Uber clone created using React Native, Navigation, Redux, Tailwind CSS, Google A
 
 Live site - https://expo.dev/@marymahmood/projects/rideapp
 
-![uber-pic](https://user-images.githubusercontent.com/86771291/137580456-e82d32ab-ee35-4320-a899-c1e20b53f8a2.png)
+![uber-pic-final](https://user-images.githubusercontent.com/86771291/138239873-999a1653-cb06-476e-bbee-26c55e9c307f.png)
 
 # Features
 
